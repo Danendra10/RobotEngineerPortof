@@ -1,72 +1,68 @@
 {
-  "name": "Chetan",
+  "name": "Danendra",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Chetan Verma - curious",
-  "headerTaglineThree": "designer and devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
+  "headerTaglineTwo": "I'm Danendra Clevero Ananda",
+  "headerTaglineThree": "Robot Software Engineer",
+  "headerTaglineFour": " based in Yogyakarta, Indonesia.",
   "showBlog": true,
   "darkMode": true,
   "socials": [
     {
       "id": "1",
       "title": "Github",
-      "link": "https://github.com/chetanverma16"
+      "link": "https://github.com/danendra10"
     },
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/chetanverma7/"
+      "link": "https://www.linkedin.com/in/danendraclevero/"
     },
     {
       "id": "3",
       "title": "Twitter",
-      "link": "https://twitter.com/realchetanverma"
+      "link": "https://twitter.com/progjoki"
     },
-    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
-    { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+    {
+      "id": "4",
+      "title": "Email",
+      "link": "mailto:danendraclever24@gmail.com"
+    }
   ],
   "projects": [
     {
       "id": "1",
-      "title": "Project One Test",
-      "description": "Web Design",
+      "title": "IRIS ITS (Full Autonomous Soccer Robot Team)",
+      "description": "Robot Software RnD",
       "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": "https://iris.its.ac.id/"
     },
     {
       "id": "2",
-      "title": "Project Two",
-      "description": "Web Development",
+      "title": "Wheeled Soccer Robot Simulation",
+      "description": "Robot Software RnD Finished in 1 Month",
       "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": "https://github.com/Danendra10/Wheeled-Robot-Soccer-Simulator"
     },
     {
       "id": "3",
-      "title": "Project Three",
-      "description": "Design",
+      "title": "PUI AiHESS (Autonomous Service Robot)",
+      "description": "Robot UI Development (built with react typescript and roslib)",
       "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": "https://www.its.ac.id/komputer/penandatangan-pks-pembuatan-new-raisa-untuk-kominfo-oleh-direktur-dkpu-its-dan-ppk-dari-ditjen-sdppi-kemenkominfo/"
     },
     {
       "id": "4",
-      "title": "Project Four",
-      "description": "Marketing",
+      "title": "Freelance Robot Engineer RnD",
+      "description": "Robot Service with skills of object clustering, obstacle avoidance, SLAM 3D using Depth Cam and HDL-32E Lidar and teaching programming and robotics",
       "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": "https://danendra10.github.io"
     },
     {
       "id": "5",
-      "title": "Project Five",
-      "description": "Development",
+      "title": "Widya Robotics (LoadScanner)",
+      "description": "Scanning Load of dump truck to get the volume of dump truck",
       "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "6",
-      "title": "Project Six",
-      "description": "Design & Development",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": "https://widya.ai"
     }
   ],
   "services": [
@@ -111,7 +107,9 @@
         "dates": "March 2020 - March 2022",
         "type": "Full Time",
         "position": "Frontend Engineer at X",
-        "bullets": ["Worked on the frontend of a React application"]
+        "bullets": [
+          "Worked on the frontend of a React application"
+        ]
       }
     ],
     "education": {
@@ -119,8 +117,21 @@
       "universityDate": "2016-2020",
       "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
     },
-    "languages": ["Javascript", "HTML5", "CSS", "Python"],
-    "frameworks": ["React", "Typescript", "NodeJs"],
-    "others": ["Figma", "AdobeXD", "AWS"]
+    "languages": [
+      "Javascript",
+      "HTML5",
+      "CSS",
+      "Python"
+    ],
+    "frameworks": [
+      "React",
+      "Typescript",
+      "NodeJs"
+    ],
+    "others": [
+      "Figma",
+      "AdobeXD",
+      "AWS"
+    ]
   }
 }
