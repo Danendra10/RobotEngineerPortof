@@ -32,6 +32,13 @@
     ],
     "projects": [
         {
+            "id": "0",
+            "title": "Mechanic and Robot Software Engineer (RnD) at JivaNusa Robotics",
+            "description": "AMR Werehouse Robot simulation (prototype before development)",
+            "imageSrc": "/images/amr.jpeg",
+            "url": ""
+        },
+        {
             "id": "1",
             "title": "IRIS ITS (Full Autonomous Soccer Robot Team)",
             "description": "Robot Software RnD",
@@ -146,6 +153,17 @@
                     "Worked on a Robot Service simulation and algorithm",
                     "Using JPDAF for robot obstacle classification",
                     "Using my thesis for robot's obstacle avoidance"
+                ]
+            },
+            {
+                "id": "6",
+                "dates": "June 2024 - Present",
+                "type": "Project Based",
+                "position": "ROS Engineer RND at JivaNusa Robotics",
+                "bullets": [
+                    "Worked on a werehouse simulation, prototyping, and algorithm",
+                    "Using ROS2 Humble",
+                    "Using sensors such as IMU, Odom, LiDAR 2D, and depth cam"
                 ]
             }
         ],
